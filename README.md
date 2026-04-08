@@ -4,6 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![License](https://img.shields.io/badge/License-Educational-green)
 
+
 ## 📌 Overview
 
 This project implements a deep learning model to automatically detect **Atrial Fibrillation (AF)** from raw ECG signals using a hybrid **CNN + Bidirectional LSTM** architecture.
@@ -254,8 +255,11 @@ This project is for **educational and research purposes only**. The PhysioNet da
 
 ---
 
-## 👤 Author
+## 👥 Contributors 
 
-**Your Name**
-- GitHub: https://github.com/Georgie-GitHub
-- LinkedIn: https://www.linkedin.com/in/georgieberalie/
+**Georgie B Eralie**
+- GitHub: [https://github.com/John  ](https://github.com/Georgie-GitHub)
+- LinkedIn: [https://www.linkedin.com/in/johnjacob/](https://www.linkedin.com/in/georgieberalie/)
+
+**Athul Raphi M T**
+- Assisted with model development / preprocessing / experimentation 
