@@ -258,8 +258,8 @@ This project is for **educational and research purposes only**. The PhysioNet da
 ## 👥 Contributors 
 
 **Georgie B Eralie**
-- GitHub: [https://github.com/John  ](https://github.com/Georgie-GitHub)
-- LinkedIn: [https://www.linkedin.com/in/johnjacob/](https://www.linkedin.com/in/georgieberalie/)
+- GitHub: https://github.com/Georgie-GitHub
+- LinkedIn: https://www.linkedin.com/in/georgieberalie
 
 **Athul Raphi M T**
 - Assisted with model development / preprocessing / experimentation 
